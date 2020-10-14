@@ -1,0 +1,7 @@
+4 2 3 1 // recursos
+0 0 1 0 // allocated
+2 0 0 1
+0 1 2 0
+2 0 1 1 // max need
+3 0 1 1
+2 2 2 10
